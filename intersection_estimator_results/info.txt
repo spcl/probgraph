@@ -1,0 +1,1 @@
+This folder is used to store csv files containing the results of the intersection estimator evaluation. These files are written by the file src/src/evaluate_intersection_estimators.cpp and they are read by the script create_intersection_estimator_plots.py

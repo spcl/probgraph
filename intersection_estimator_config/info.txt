@@ -1,0 +1,1 @@
+This folder contains configuration files for the intersection estimator accuracy evaluation. The configuration files contain the graphs that should be used for the evaluation.

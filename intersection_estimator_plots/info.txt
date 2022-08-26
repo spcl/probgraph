@@ -1,0 +1,1 @@
+This folder is used to store plots showing the results of the intersection estimator evaluation. These plots are created by the file create_intersection_estimator_plots.py
